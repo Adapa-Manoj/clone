@@ -2,3 +2,6 @@ Hi
 Hello
 How r u?
 What r u doing?
+good
+bad
+fine
